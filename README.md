@@ -4,7 +4,7 @@ I am a Computer Science (AI Specialization) student at the University of Waterlo
 
 ## Currently, I am...
 
-- An incoming SWE at [Faire](https://www.faire.com/)!
+- A SWE at [Faire](https://www.faire.com/)!
 - Working on building a NES emulator in Rust
 - Looking for Summer 2023 webdev / ML / low level internship opportunities
 
